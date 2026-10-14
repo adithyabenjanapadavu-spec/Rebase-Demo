@@ -1,2 +1,6 @@
 hello Git
+
 This is my remote change.
+
+This is my local change.
+
