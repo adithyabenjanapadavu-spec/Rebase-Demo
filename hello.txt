@@ -1,3 +1,4 @@
 hello git
 This is my local change.
 I am starting with anew commit
+new message/new update
